@@ -24,20 +24,21 @@ answers to the following questions, and are interested in adding more.
 - Can't I just drive myself?
 - I'm broke, how can I possibly go?
 
-**The day before**
+**[The day before](README.md#the-day-before)**
 
-- What should I bring?
+- [What should I pack?](README.md#what-should-i-pack)
 
 **The day of**
 
 - What is the typical schedule?
+- Who are companies that sponsor hackathons?
+- What is swag / what is given out?
 
 **Coding**
 
 - Where should I put my code?
 - What should I watch out for?
 - Someone committed passwords! How can I remove them?
-
 
 General
 =======
@@ -67,6 +68,33 @@ that are not directly associated with universities,
 United States and internationally. Hacker Leauge also provides information on
 hackathons hosted during the summer and hackathons not directly associated with
 a university, but instead associated with an external company or cause.
+
+The day before
+==============
+
+The day before the hackathon, you should make sure that you have done the following.
+
+1. Create an account on ChallengePost
+2. Print a few copies of your resume
+3. Pack your bag
+
+In preparation for a hackathon, you should attendees create an account on
+[ChallengePost](challengepost.com). ChallengePost is where MLH tells hackathons
+to handle submissions and many hosts will handle their judging through this site.
+
+What should I pack?
+-------------------
+- Laptop, *Most hackathon hosts will have some extra laptops available if you don't have one.*
+- Chargers for your laptop and mobile devices
+- Ethernet cable - Wireless access points may become unavailable due the the number of people connecting to them. Be sure to bring an ethernet cable to connect to the internet with.
+- Big backpack - You will be accumulating lots of swag throught the competition. You will want a place to store it for the trip home.
+- Hygiene items (toothbrush, toothpase, deodorant, etc.)
+- A comfortable hoodie
+- A pocket folder with about 10 to 20 copies of your resume.
+
+Many of the sponsors who go to hackathons are actively recruiting new employees
+or interns. A hackathon can be a great way to get an internship with a company
+or get a job and start your career.
 
 [hacker-league]: https://www.hackerleague.org/hackathons
 [hackrpi]: http://www.hackrpi.com/
