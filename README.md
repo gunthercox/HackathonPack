@@ -79,23 +79,31 @@ The day before the hackathon, you should make sure that you have done the follow
 3. Pack your bag
 
 In preparation for a hackathon, you should attendees create an account on
-[ChallengePost](challengepost.com). ChallengePost is where MLH tells hackathons
-to handle submissions and many hosts will handle their judging through this site.
+[ChallengePost][challengepost]. ChallengePost is where MLH tells hackathons
+to handle submissions and many hosts will handle their judging through this
+website.
 
 What should I pack?
 -------------------
-- Laptop, *Most hackathon hosts will have some extra laptops available if you don't have one.*
-- Chargers for your laptop and mobile devices
-- Ethernet cable - Wireless access points may become unavailable due the the number of people connecting to them. Be sure to bring an ethernet cable to connect to the internet with.
-- Big backpack - You will be accumulating lots of swag throught the competition. You will want a place to store it for the trip home.
-- Hygiene items (toothbrush, toothpase, deodorant, etc.)
-- A comfortable hoodie
-- A pocket folder with about 10 to 20 copies of your resume.
+- **A laptop** that you can hack on (*many hackathons provide extra laptops in
+the hardware you can borrow*).
+- **Power cables and adapters** for your laptop and any devices you may be
+bringing.
+- **An ethernet cable** - Wireless access points may become unavailable due the
+the number of people connecting to them. Be sure to bring an ethernet cable to
+connect to the internet with.
+- **A large backpack** that can store all of the devices you are bringing as
+well as any swag that you accumulate throughout the hackathon.
+- Hygiene items (toothbrush, toothpaste, deodorant, etc.)
+- **Comfortable clothing**, you never know what it is going to be like in the
+hacking spaces.
+- **A pocket folder** with about 10 to 20 copies of your resume.
 
 Many of the sponsors who go to hackathons are actively recruiting new employees
 or interns. A hackathon can be a great way to get an internship with a company
 or get a job and start your career.
 
+[challengepost]: challengepost.com
 [hacker-league]: https://www.hackerleague.org/hackathons
 [hackrpi]: http://www.hackrpi.com/
 [mlh]: https://mlh.io/
