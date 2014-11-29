@@ -7,10 +7,10 @@ This guide is set up in a question and answer format, and is designed to give an
 answer to most questions you will have about hackathons. We currently have
 answers to the following questions, and are interested in adding more.
 
-**[General](README.md#general)**
+**[General](#general)**
 
-- [What is a hackathon?](README.md#what-is-a-hackathon)
-- [Where can I find hackathons?](README.md#where-can-i-find-hackathons)
+- [What is a hackathon?](#what-is-a-hackathon)
+- [Where can I find hackathons?](#where-can-i-find-hackathons)
 
 **Team building**
 
@@ -24,9 +24,9 @@ answers to the following questions, and are interested in adding more.
 - Can't I just drive myself?
 - I'm broke, how can I possibly go?
 
-**[The day before](README.md#the-day-before)**
+**[The day before](#the-day-before)**
 
-- [What should I pack?](README.md#what-should-i-pack)
+- [What should I pack?](#what-should-i-pack)
 
 **The day of**
 
@@ -34,11 +34,11 @@ answers to the following questions, and are interested in adding more.
 - Who are companies that sponsor hackathons?
 - What is swag / what is given out?
 
-**Coding**
+**[Creating the hack](#creating-the-hack)**
 
-- Where should I put my code?
-- What should I watch out for?
-- Someone committed passwords! How can I remove them?
+- [Where should I put my code?](#where-should-i-put-my-code)
+- [What should I watch out for?](#what-should-i-watch-out-for)
+- [Someone committed passwords! How can I remove them?](#removing-sensitive-information)
 
 General
 =======
@@ -71,7 +71,6 @@ a university, but instead associated with an external company or cause.
 
 The day before
 ==============
-
 The day before the hackathon, you should make sure that you have done the following.
 
 1. Create an account on ChallengePost
@@ -103,7 +102,81 @@ Many of the sponsors who go to hackathons are actively recruiting new employees
 or interns. A hackathon can be a great way to get an internship with a company
 or get a job and start your career.
 
-[challengepost]: challengepost.com
+Creating the hack
+=================
+When you're at the hackathon, you will get the chance to meet with sponsors and
+learn about what APIs, development tools, and hardware kits they are providing.
+
+Where should I put my code?
+---------------------------
+This document lives on [GitHub][github], which is a web-based Git hosting
+service. There are many other code sharing services out there, like
+[Bitbucket][bitbucket] from Atlassian and [CodePlex][codeplex] from Microsoft.
+For a hackathon, your team should decide if the project you create will be open
+source or private. Most Git hosting services are free for open source projects,
+but GitHub requires a paid plan for private projects and CodePlex does not allow
+them. Bitbucket allows you to create private projects for free, which allows
+enough people for a standard hackathon team.
+
+GitHub also provides [a student developer pack][github-education] that provides
+students with free private repositories. The student developer pack also
+includes a list of other services that are available to students, many of which
+can be useful during hackathons.
+
+What should I watch out for?
+----------------------------
+If it is your first time at a hackathon, and even if you have been to many
+hackathons before, it is useful to know what to watch out for when creating your
+hack. We encourage those who have been at hackathons to improve this section (or
+the entire guide) with quick tips for those starting out.
+
+1. **Keep it small** - The larger the hack, the longer it is going to take.
+You're not there to make a startup, you're there to make a hack.
+2. **Make it look good** - You're going to be presenting your hack to others,
+polish it up and make it visually appealing.
+3. **Look at the sponsors** - Many sponsors will provide hardware or APIs that
+you can use, and some even provide the prizes.
+4. **Have a plan** - Don't go into a hackathon blind, have an idea of what you
+are interested in creating.
+
+Removing sensitive information
+------------------------------
+You've been creating your hack that uses an impressive third-party API, and you
+notice that your API keys are sitting out in the open in your public repository.
+Accidents happen, but make sure to remove the keys as soon as possible and more
+importantly: generate new ones.
+
+You should never commit keys, passwords, or any other private data to your
+repository. Even if it is private, you should still avoid doing it as removal
+requires rewriting history and still leaves you in a tough spot.
+
+The first thing you should do when you discover that sensitive information has
+been committed to your repository is **invalidate the key or change the
+password**. This will ensure that even if someone was able to record the
+sensitive information, they will not be able to use it.
+
+Once you have generated new keys and changed your passwords, you should remove
+the information from the past commits. Git allows you to rewrite history, along
+with most other source control systems, and GitHub provides
+[an excellent guide][github-sensitive-data] on removing sensitive information
+from your repositories. If the change was recently committed or the repository
+does not have many commits, which is typical for a hackathon, you can quickly
+remove the information by [amending the commit][amending-commits] after deleting
+it.
+
+In order to prevent committing sensitive information, it is best if you put the
+sensitive information in a configuration file that is excluded from version
+control by a `.gitignore` file. You can distribute the excluded files to your
+teammates outside of the repository, and this will prevent anyone from
+committing the information.
+
+[amending-commits]: http://stackoverflow.com/q/179123/359284
+[bitbucket]: https://bitbucket.org/
+[challengepost]: https://challengepost.com
+[codeplex]: https://www.codeplex.com/
+[github]: https://github.com
+[github-education]: https://education.github.com/
+[github-sensitive-data]: https://help.github.com/articles/remove-sensitive-data/
 [hacker-league]: https://www.hackerleague.org/hackathons
 [hackrpi]: http://www.hackrpi.com/
 [mlh]: https://mlh.io/
