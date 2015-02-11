@@ -97,6 +97,12 @@ well as any swag that you accumulate throughout the hackathon.
 - **Comfortable clothing**, you never know what it is going to be like in the
 hacking spaces.
 - **A pocket folder** with about 10 to 20 copies of your resume.
+- **A flash drive** to share files in case sharing them wirelessly isn't an
+option.
+- **Head phones or earbuds**, the hacking arena can get rather noisey. If your
+project ends up using sound in any way it may be a challenge to hear it on your
+laptop's speakers. These may also be usefull if you just decide you want to
+listen to mucic.
 
 Many of the sponsors who go to hackathons are actively recruiting new employees
 or interns. A hackathon can be a great way to get an internship with a company
