@@ -11,6 +11,7 @@ answers to the following questions, and are interested in adding more.
 
 - [What is a hackathon?](#what-is-a-hackathon)
 - [Where can I find hackathons?](#where-can-i-find-hackathons)
+- [What should I expect?](#what-should-i-expect)
 
 **Team building**
 
@@ -68,6 +69,42 @@ that are not directly associated with universities,
 United States and internationally. Hacker Leauge also provides information on
 hackathons hosted during the summer and hackathons not directly associated with
 a university, but instead associated with an external company or cause.
+
+What should I expect?
+---------------------
+If you are going to your first hackathon it may be unclear what you should
+expect when you get there. Most hackathons are 12 to 48 hours in durration and
+they typically follow a similar schedule.
+
+1. **The opening ceremony** will introduce event sponsors and speakers. It may
+be usefull to mentally note any sponsors that are providing interesting resources
+to hackers.
+2. **Talking with sponsors** After the opening ceremony, everyone exits to go
+meet the sponsors at their booths. This is the time that you will want to spend
+acquireing swag, and talking with mentors from sponsors booths to find out more
+about what they are providing.
+3. **Team building** will be possible if you need additional members
+to add to your team or if you need a team to join. You can usually find an event
+coordinator after the opening ceremoney to ask about this.
+4. **Find your hackerspace**, you will need to find a place for your team to
+work. The host should indicate what areas are available for people to use. They
+will provide tables to work at and there should be some form of internet
+connection available. Since wireless networks can get overloaded at these events
+you may want to strategically choose a table near a ethernet port or hub.
+5. **Planning / coding**, planning your project is critical. Make sure everyone
+is on the same page and knows what there part is.
+6. **Not sleeping** Most people end up sleeping for at least a few minutes. Your
+hackathon host may provide areas where sleeping is permitted. Otherwise you may
+just want to hide put your head down on a folded up hoodie.
+7. **Judging** After the coding session, judges will come around to evaluate
+each team's project. It will be important that you convey how you used technlogy
+provided by sponsors and wxplain why your creation is a usefull hack.
+8. **The closing ceremony** is where awards will be distributed.
+9. **Going home** It is not a good idea to drive after not sleeping all night.
+Make sure that you have a plan for someone to pick you up.
+
+And don't forget: tons of food will be served by the host throught the
+hackathon. You should not need to worry about bringing anything to eat.
 
 The day before
 ==============
