@@ -13,12 +13,12 @@ answers to the following questions, and are interested in adding more.
 - [Where can I find hackathons?](#where-can-i-find-hackathons)
 - [What should I expect?](#what-should-i-expect)
 
-**Team building**
+**[Team building](#team-building)**
 
-- Do I need a team?
-- What if I want to fly solo?
-- What makes a good team?
-- How do I find additional members?
+- [Do I need a team?](#do-i-need-a-team)
+- [What if I want to fly solo?](#what-if-i-want-to-fly-solo)
+- [What makes a good team?](#what-makes-a-good-team)
+- [How do I find additional members?](#how-do-i-find-additional-members)
 
 **Getting there**
 
@@ -98,7 +98,7 @@ hackathon host may provide areas where sleeping is permitted. Otherwise you may
 just want to hide put your head down on a folded up hoodie.
 7. **Judging** After the coding session, judges will come around to evaluate
 each team's project. It will be important that you convey how you used technlogy
-provided by sponsors and wxplain why your creation is a usefull hack.
+provided by sponsors and explain why your creation is a useful hack.
 8. **The closing ceremony** is where awards will be distributed.
 9. **Going home** It is not a good idea to drive after not sleeping all night.
 Make sure that you have a plan for someone to pick you up.
@@ -106,9 +106,65 @@ Make sure that you have a plan for someone to pick you up.
 And don't forget: tons of food will be served by the host throught the
 hackathon. You should not need to worry about bringing anything to eat.
 
+Team building
+=============
+Hackathons are great group experiences, but they don't always start off that
+way. Whether you are attending a hackathon on your own, or with a group of
+others, there are a few things to consider.
+
+Do I need a team?
+-----------------
+Not always! Many hackathons allow for a team of one, and some people find that
+they work better alone on their own projects. It is still recommended to be
+near other teams, even if it just means sitting at a table close to some
+friends (or new hackers that you meet), as it's always useful to have someone
+to bounce ideas or fixes off of, and to socialize with.
+
+Teams are great for larger projects or when you are working with technologies
+that you've never tried before. They are also useful if you are attending a
+hackathon for the first time, so you can get an idea of what to do (if your
+team members aren't also new) or try things out as a group (if nobody has been
+before).
+
+What if I want to fly solo?
+---------------------------
+It's common when you are dedicated to a project to want to work alone. This is
+perfectly fine, but it is recommended to sit near an active group or be around
+others who are also flying solo.
+
+What makes a good team?
+-----------------------
+There are a few things to consider when forming teams
+
+- **Balance skills across the team** - Having a team full of people who all
+  have the same skills can create gaps, especially when you run into
+  roadblocks. Try to create a team with people who share different skills.
+- **Find people who are interested** - If you have an idea for a hack to
+  create, pitch it to your team members. Working on a project which doesn't
+  interest you can get boring, so make sure everyone enjoys what they are
+  working on.
+- **Find people you can work with** - Have you ever worked on a project with
+  someone you didn't want to be with? It's not enjoyable.
+- **Break out of your comfort zone** - While it's fun to always hack with your
+  friends, try to hack with someone who you have never hacked with before. You
+  might be surprised about how it turns out.
+
+How do I find additional team members?
+--------------------------------------
+Most hackathons will have team building events either ahead of time or right
+after the opening ceremony. These events are a great way to find team members
+who complement your skill sets, and who are interested in working together to
+make a great hack.
+
+If the hackathon is hosted on ChallengePost, there is an option when you
+register to tell everyone that you are looking for team members. Look through
+the participant list and see if there is anyone who looks like they might be
+interested in what you are working on.
+
 The day before
 ==============
-The day before the hackathon, you should make sure that you have done the following.
+The day before the hackathon, you should make sure that you have done the
+following.
 
 1. Create an account on ChallengePost
 2. Print a few copies of your resume
