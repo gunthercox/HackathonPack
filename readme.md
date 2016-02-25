@@ -18,7 +18,7 @@ answers to the following questions, and are interested in adding more.
 - [Do I need a team?](#do-i-need-a-team)
 - [What if I want to fly solo?](#what-if-i-want-to-fly-solo)
 - [What makes a good team?](#what-makes-a-good-team)
-- [How do I find additional members?](#how-do-i-find-additional-members)
+- [How do I find additional members?](#how-do-i-find-additional-team-members)
 
 **Getting there**
 
@@ -156,7 +156,7 @@ after the opening ceremony. These events are a great way to find team members
 who complement your skill sets, and who are interested in working together to
 make a great hack.
 
-If the hackathon is hosted on ChallengePost, there is an option when you
+If the hackathon is hosted on DevPost, there is an option when you
 register to tell everyone that you are looking for team members. Look through
 the participant list and see if there is anyone who looks like they might be
 interested in what you are working on.
@@ -166,12 +166,12 @@ The day before
 The day before the hackathon, you should make sure that you have done the
 following.
 
-1. Create an account on ChallengePost
+1. Create an account on DevPost
 2. Print a few copies of your resume
 3. Pack your bag
 
 In preparation for a hackathon, you should attendees create an account on
-[ChallengePost][challengepost]. ChallengePost is where MLH tells hackathons
+[DevPost][devpost]. DevPost is where MLH tells hackathons
 to handle submissions and many hosts will handle their judging through this
 website.
 
@@ -271,7 +271,7 @@ committing the information.
 
 [amending-commits]: http://stackoverflow.com/q/179123/359284
 [bitbucket]: https://bitbucket.org/
-[challengepost]: https://challengepost.com
+[devpost]: http://devpost.com
 [codeplex]: https://www.codeplex.com/
 [github]: https://github.com
 [github-education]: https://education.github.com/
